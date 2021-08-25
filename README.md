@@ -1,5 +1,3 @@
-tiagopires/README.md
-
 # Prazer! Eu sou Tiago Pires
 
  <div>
