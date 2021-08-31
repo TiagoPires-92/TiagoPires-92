@@ -1,8 +1,8 @@
 # Prazer! Eu sou Tiago Pires
 
  <div>
-  <a href="https://github.com/tiagopires">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagopires&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/TiagoPires-92">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoPires-92&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
  
  <div style="display: inline_block"><br>
